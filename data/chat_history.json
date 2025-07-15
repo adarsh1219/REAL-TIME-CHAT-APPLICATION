@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "id": "1bcfb6be-5f0c-41f7-a3ce-63a7d44a8d26",
+      "content": "hii",
+      "isMe": true,
+      "timestamp": "2025-07-15T04:11:36.587Z",
+      "user": {
+        "name": "User",
+        "color": "#17b75f"
+      }
+    },
+    {
+      "id": "c06251c1-11ce-448b-827b-1fc4fb629c65",
+      "content": "hlo",
+      "isMe": true,
+      "timestamp": "2025-07-15T04:25:54.024Z",
+      "user": {
+        "name": "User",
+        "color": "#a093a1"
+      }
+    }
+  ]
+}
