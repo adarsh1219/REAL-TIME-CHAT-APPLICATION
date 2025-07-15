@@ -61,3 +61,6 @@ npm start
 - WebSocket
 - styled-components
 - uuid
+
+<img width="1902" height="933" alt="Screenshot 2025-07-15 095839" src="https://github.com/user-attachments/assets/0b9f506f-dd69-4144-b7bb-249d8dd0b27b" />
+
