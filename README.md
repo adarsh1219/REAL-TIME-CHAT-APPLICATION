@@ -6,6 +6,8 @@
 
 *Intern ID:* CT06DG352
 
+*Domain:* Front End Development
+
 *Internship Duration:* 6 weeks
 
 *Mentor Name:* Neela Santhosh
